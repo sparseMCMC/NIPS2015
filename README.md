@@ -1,6 +1,6 @@
 # NIPS2015
 
-Welcome to our anonymous NIPS submission. All code remains copyright of the anonymous authors, released under the BSD license (see LICENSE)
+Welcome to our anonymous NIPS submission. All code remains copyright of the anonymous authors, released under the GPL license (see LICENSE)
 
 structure
 --
